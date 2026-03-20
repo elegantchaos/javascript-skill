@@ -1,0 +1,4 @@
+interface:
+  display_name: "JavaScript"
+  short_description: "General JavaScript and TypeScript guidance"
+  default_prompt: "Use $javascript for general JavaScript and TypeScript guidance, module structure, async behavior, runtime assumptions, and baseline tooling practices."
